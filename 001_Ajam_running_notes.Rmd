@@ -75,7 +75,7 @@ To confirm alignments to the new genomes, I:
 
 For example, blastx of comp417928_c1_seq1 shows that it has the highest e-value hit (0) to the Squirrel monkey retrovirus. However, it also has highest % identity (83.25%) to the A. jamaicensis "endogenous retrovirus group K member 5 Gag polyprotein-like" gene. When I blast the contig against only the Ajam reference genome, this gene is again the top hit. When I blast it against the CSHL genome, there is no hit. However, when I blast the reference genome gene (XP_037006647.1) against the CSHL genome, I do get good alignment. The blast results for the other contigs vs. the Ajam genome blast results were similarly not identical. I think this is likely because transcriptome assembly is error-prone, and I'm not going to worry about it. For now, we will continue with using the blast results according to the Ajam reference genome, then double-checking that those genes have high alignment within the CSHL genome as well.
 
-See the full list of blast results [here](transcriptome_blast.xlsx).
+See the full list of blast results [here](primer_design/transcriptome_blast.xlsx).
 
 ### Results
 
@@ -114,7 +114,7 @@ Primer set 1: ERV 756 F + ERV 835 R
 Primer set 2: ERV 1070 F + ERV 1179 R
 Primer set 3: ERV 1344 F + ERV 1456 R
 
-See primer list and sequences [here.](ERVprimers.xlsx)
+See primer list and sequences [here.](primer_design/ERVprimers.xlsx)
 
 ### tyrosine kinase primers
 

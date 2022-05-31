@@ -120,7 +120,8 @@ continue with using the blast results according to the Ajam reference
 genome, then double-checking that those genes have high alignment within
 the CSHL genome as well.
 
-See the full list of blast results [here](transcriptome_blast.xlsx).
+See the full list of blast results
+[here](primer_design/transcriptome_blast.xlsx).
 
 ### Results
 
@@ -189,7 +190,7 @@ the primer sequence.
 Primer set 1: ERV 756 F + ERV 835 R Primer set 2: ERV 1070 F + ERV 1179
 R Primer set 3: ERV 1344 F + ERV 1456 R
 
-See primer list and sequences [here.](ERVprimers.xlsx)
+See primer list and sequences [here.](primer_design/ERVprimers.xlsx)
 
 ### tyrosine kinase primers
 
